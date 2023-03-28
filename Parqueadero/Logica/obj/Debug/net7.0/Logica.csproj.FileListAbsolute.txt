@@ -1,0 +1,17 @@
+C:\Users\yesit\source\repos\Parqueadero\Logica\bin\Debug\net7.0\Logica.deps.json
+C:\Users\yesit\source\repos\Parqueadero\Logica\bin\Debug\net7.0\Logica.dll
+C:\Users\yesit\source\repos\Parqueadero\Logica\bin\Debug\net7.0\Logica.pdb
+C:\Users\yesit\source\repos\Parqueadero\Logica\bin\Debug\net7.0\Datos.dll
+C:\Users\yesit\source\repos\Parqueadero\Logica\bin\Debug\net7.0\Entity.dll
+C:\Users\yesit\source\repos\Parqueadero\Logica\bin\Debug\net7.0\Datos.pdb
+C:\Users\yesit\source\repos\Parqueadero\Logica\bin\Debug\net7.0\Entity.pdb
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\Logica.csproj.AssemblyReference.cache
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\Logica.AssemblyInfoInputs.cache
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\Logica.AssemblyInfo.cs
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\Logica.csproj.CopyComplete
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\Logica.dll
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\refint\Logica.dll
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\Logica.pdb
+C:\Users\yesit\source\repos\Parqueadero\Logica\obj\Debug\net7.0\ref\Logica.dll
